@@ -20,7 +20,6 @@ $carousel-item-height: 300px;
     border-bottom: 1px ridge;
     min-height:400px;
 }
-
 .footer{
     background-color: $background-pale;
     @include zero-margin(20px, 0px);
@@ -35,7 +34,7 @@ $carousel-item-height: 300px;
 address{
     font-size:80%;
     margin:0px;
-    color:#0f0f0f;
+    color:#0f0f01;
 }
 
 body{
